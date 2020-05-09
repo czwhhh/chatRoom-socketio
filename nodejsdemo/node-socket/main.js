@@ -12,7 +12,8 @@ app.on('ready',()=>{
         width : 800 ,
         height : 900 
     })
-    mainWindow.loadURL('http://localhost:3000/');
+    mainWindow.loadFile(__dirname+'/index.html')
+    // mainWindow.loadURL('http://localhost:3000/');
     mainWindow.on('closed',()=>{
         mainWindow = null;
     })

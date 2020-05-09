@@ -1,0 +1,12 @@
+这是一段通过fs.writeFile函数写入的内容;
+使用fs.appendFile追加文件内容;
+使用fs.appendFile追加文件内容;
+使用fs.appendFile追加文件内容;
+使用fs.appendFile追加文件内容;
+使用fs.appendFile追加文件内容;
+使用fs.appendFile追加文件内容;
+使用fs.appendFile追加文件内容;
+使用fs.appendFile追加文件内容;
+使用fs.appendFile追加文件内容;
+入文件数据内
+我爱nodejs编程
